@@ -1,7 +1,6 @@
-POST http://localhost:3000/signin 
-Content-Type: application/json
+GET http://localhost:3000/new-notification
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1YTJmNDMzNTMxMWUzMGZhMjhhMjNjNyIsImlhdCI6MTcwNjgwNDYwNn0.r2-GVCAqoTogjmJ_JpEIiUWzZ47A8D8NUsk7aTA2DuQ
 
-{
-    "email": "kunaa@gmail.com",
-    "password": "Kunaal"
-}
+
+
+
